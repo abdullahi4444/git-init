@@ -22,3 +22,7 @@ Run the unit tests with:
 ```bash
 python -m unittest test_password_generator.py
 ```
+
+## License
+MIT License
+
