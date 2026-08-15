@@ -47,3 +47,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# TODO: Add support for custom character set exclusions in a future release
+
