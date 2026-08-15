@@ -3,6 +3,7 @@ import string
 import sys
 
 def generate_password(length=12, use_uppercase=True, use_numbers=True, use_special=True):
+    """Generate a random password based on the criteria."""
     if length < 4:
         raise ValueError("Password length must be at least 4 characters.")
     
